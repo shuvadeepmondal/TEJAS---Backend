@@ -1,5 +1,5 @@
 regex
-urllib3==1.26.6
+urllib3
 uvicorn
 fastapi
 requests
@@ -17,4 +17,4 @@ tqdm
 python-Levenshtein
 ail-typo-squatting
 lightgbm
-firebase-admin==6.1.0
+firebase-admin

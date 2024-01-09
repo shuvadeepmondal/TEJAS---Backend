@@ -5,10 +5,8 @@ fastapi
 requests
 pydantic
 gunicorn
-uvloop
 httptools
 numpy
-pickle5
 python-whois
 beautifulsoup4
 pyopenssl
@@ -18,3 +16,4 @@ python-Levenshtein
 ail-typo-squatting
 lightgbm
 firebase-admin
+scikit-learn
